@@ -1,10 +1,7 @@
 # Heart-disease-prediction
 
 ## Overview
-Cardiovascular diseases (CVDs) are a leading global cause of mortality, responsible for an estimated 17.9 million deaths annually. Identifying individuals at risk of heart disease is crucial for early intervention. This repository contains machine learning models trained to predict the likelihood of heart disease based on various health attributes.
-
-## Context
-CVDs, including heart attacks and strokes, account for 31% of all deaths worldwide. Early detection and management are vital for individuals with cardiovascular disease or high cardiovascular risk. This project aims to leverage machine learning to assist in the early identification of potential heart disease cases.
+Cardiovascular diseases (CVDs) are a leading global cause of mortality, responsible for an estimated 17.9 million deaths annually. Identifying individuals at risk of heart disease is crucial for early intervention. This project aims to leverage machine learning to assist in the early identification of potential heart disease cases.
 
 ## Dataset
 
